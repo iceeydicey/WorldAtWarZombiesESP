@@ -1,0 +1,6 @@
+﻿  COD5.cpp
+D:\Program Files (x86)\Microsoft Visual Studio\projects\COD5\COD5.cpp(133,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Program Files (x86)\Microsoft Visual Studio\projects\COD5\COD5.cpp(133,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Program Files (x86)\Microsoft Visual Studio\projects\COD5\COD5.cpp(133,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Program Files (x86)\Microsoft Visual Studio\projects\COD5\COD5.cpp(133,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  COD5.vcxproj -> D:\Program Files (x86)\Microsoft Visual Studio\projects\COD5\Debug\COD5.exe
